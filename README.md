@@ -1,2 +1,2 @@
 # OIBSIP-L1-TASK2
-task2:portfolio
+task2:Portfolio
