@@ -1,2 +1,2 @@
-# oasis-task2-portfolio
-oasis task2:portfolio
+# OIBSIP-L1-TASK2
+task2:portfolio
